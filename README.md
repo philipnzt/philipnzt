@@ -3,7 +3,7 @@
 I'm **Philip**, a Y3 Data Science Undergrad at NUS passionate about visualizing cool data.
 
 ###  I'm currently working on
-- Data science projects involving real-world datasets (heart disease, language endangerment)
+- Data science projects involving real-world datasets using supervised and unsupervised machine learning models
 - Sharpening my skills in SQL
 
 ###  I'm currently learning
