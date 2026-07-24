@@ -1,15 +1,15 @@
 ## Hi there!
 
-I'm **Philip**, a Y2 Data Science Undergrad at NUS passionate about visualizing cool data.
+I'm **Philip**, a Y3 Data Science Undergrad at NUS passionate about visualizing cool data.
 
 ###  I'm currently working on
 - Data science projects involving real-world datasets (heart disease, language endangerment)
 - Sharpening my skills in SQL
 
 ###  I'm currently learning
-- Machine learning and statistical analysis
-- Linear Algebra II
-- Data visualisation with R and Python (ggplot2, seaborn, matplotlib)
+- Regression Analysis
+- Machine Learning
+- SQL & Cloud Computing
 
 ###  Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
